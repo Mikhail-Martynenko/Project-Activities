@@ -1,0 +1,20 @@
+﻿PyriteUI
+
+
+winexe
+C#
+.cs
+C:\Users\Zero\Desktop\EE\2 Семестр\Проектная деятельность\Pyrite-master\Pyrite-master\Pyrite\PyriteUI\obj\Debug\
+PyriteUI
+none
+false
+DEBUG;TRACE
+C:\Users\Zero\Desktop\EE\2 Семестр\Проектная деятельность\Pyrite-master\Pyrite-master\Pyrite\PyriteUI\App.xaml
+301469047392
+1-532754216
+441685226339
+19-1455640695
+ModulesControlView.xaml;ScenariosView.xaml;BooleanSelector.xaml;IpListView.xaml;RunScenariosItemsView.xaml;PortsListView.xaml;RunScenarioView.xaml;ConfirmView.xaml;SettingsView.xaml;IpBox.xaml;MainWindow.xaml;ScenarioCreation\ActionViewExtended.xaml;ScenarioCreation\ActionView.xaml;ScenarioCreation\CheckerView.xaml;ScenarioCreation\ComplexActionView.xaml;ScenarioCreation\ComplexCheckerView.xaml;ScenarioCreation\DoubleScenarioActionView.xaml;ScenarioCreation\SingleActionScenarioView.xaml;ScenarioCreation\ScenarioActionView.xaml;ScenarioCreation\WhileView.xaml;ScenarioCreation\IfView.xaml;Styles\ButtonStyles.xaml;Styles\ComboBoxStyles.xaml;Styles\LabelStyles.xaml;Styles\ListViewStyles.xaml;Styles\TabControlStyles.xaml;Styles\TextBoxStyles.xaml;TestWindow.xaml;EditScenarioView.xaml;WFast.xaml;
+
+True
+
